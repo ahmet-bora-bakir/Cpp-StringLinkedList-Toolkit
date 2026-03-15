@@ -1,7 +1,6 @@
 # Cpp-StringLinkedList-Toolkit
 ---
 
-```markdown
 # C++ Custom String Linked List Implementation
 
 A robust, memory-efficient **Singly Linked List** library developed from scratch in C++. This project serves as a comprehensive demonstration of manual memory management, pointer manipulation, and fundamental data structure algorithms.
