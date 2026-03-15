@@ -84,4 +84,3 @@ Selection: 7 -> Apple -> Cherry -> Banana ->
 
 Developed as a deep dive into C++ Memory Management and Data Structures.
 
-```
